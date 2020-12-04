@@ -49,6 +49,7 @@
     <Compile Include="Model\Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Type\NewInstance.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

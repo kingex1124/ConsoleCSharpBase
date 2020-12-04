@@ -17,6 +17,8 @@ namespace ConsoleCSharpBase
             FuncRes fR = new FuncRes();
 
             ActRes aR = new ActRes();
+           
+            NewInstance nC = new NewInstance();
         }
 
       
